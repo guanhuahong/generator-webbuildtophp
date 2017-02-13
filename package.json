@@ -1,0 +1,25 @@
+{
+  "name": "generator-webbuildtophp",
+  "version": "1.0.0",
+  "description": "这是一个创建自动化系统的generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanhuahong/web-build-to-php.git"
+  },
+  "keywords": [
+    "module",
+    "build",
+    "php",
+    "gulp"
+  ],
+  "author": "Jacket Hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guanhuahong/web-build-to-php/issues"
+  },
+  "homepage": "https://github.com/guanhuahong/web-build-to-php#readme"
+}
