@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guanhuahong/web-build-to-php.git"
+    "url": "git+https://github.com/guanhuahong/generator-webbuildtophp.git"
   },
   "keywords": [
     "module",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/guanhuahong/web-build-to-php/issues"
   },
-  "homepage": "https://github.com/guanhuahong/web-build-to-php#readme"
+  "homepage": "https://github.com/guanhuahong/web-build-to-php#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.0"
+  }
 }
